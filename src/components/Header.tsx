@@ -15,10 +15,10 @@ export const Header  = () => {
   }
 
   return(
-    <Flex backgroundColor='orange' padding='5px'>
+    <Flex backgroundColor='Black' padding='5px'>
       <Box>
         <Center>
-          <Text fontSize='3xl'>Dio Bank</Text>
+          <Text fontSize='3xl' color={'white'}>Dio Bank</Text>
         </Center>
       </Box>
       {
